@@ -1,0 +1,96 @@
+{
+  "users": [
+    {
+      "name": "Samuel",
+      "password": "secret",
+      "location": "bangalore",
+      "interests": ["technology", "food", "movies", "culture", "art", "drama"],
+      "id": 1,
+      "subscribed": [1, 3]
+    },
+    {
+      "name": "Rohan",
+      "password": "secret",
+      "location": "bangalore",
+      "interests": ["technology", "food", "movies", "culture", "art", "drama"],
+      "id": 2,
+      "subscribed": [1, 5]
+    },
+    {
+      "name": "Vivek",
+      "password": "secret",
+      "location": "bangalore",
+      "interests": ["technology", "food", "movies", "culture", "art", "drama"],
+      "id": 3,
+      "subscribed": [1, 5, 3]
+    },
+    {
+      "name": "Neil",
+      "password": "secret",
+      "location": "bangalore",
+      "interests": ["technology", "food", "movies", "culture", "art", "drama"],
+      "id": 4,
+      "subscribed": [1, 5, 2, 4]
+    },
+    {
+      "name": "Arjun",
+      "password": "secret",
+      "location": "bangalore",
+      "interests": ["technology", "food", "movies", "culture", "art", "drama"],
+      "id": 5,
+      "subscribed": [1, 5]
+    }
+  ],
+  "meetups": [
+    {
+      "id": 1,
+      "title": "Saunter Strech",
+      "location": "bangalore",
+      "date": "2022-03-25",
+      "time": "23:59",
+      "theme": "technology",
+      "description": "Random Event",
+      "image": "https://images.yourstory.com/cs/2/6c7d986093a511ec98ee9fbd8fa414a8/-1665048004739.png"
+    },
+    {
+      "id": 2,
+      "title": "Beach Event",
+      "location": "bangalore",
+      "date": "2022-03-25",
+      "time": "23:59",
+      "theme": "technology",
+      "description": "Random Event",
+      "image": "https://images.yourstory.com/cs/2/6c7d986093a511ec98ee9fbd8fa414a8/-1665048004739.png"
+    },
+    {
+      "id": 3,
+      "title": "Restaurant Event",
+      "location": "bangalore",
+      "date": "2022-03-25",
+      "time": "23:59",
+      "theme": "technology",
+      "description": "Random Event",
+      "image": "https://images.yourstory.com/cs/2/6c7d986093a511ec98ee9fbd8fa414a8/-1665048004739.png"
+    },
+    {
+      "id": 4,
+      "title": "Concert",
+      "location": "bangalore",
+      "date": "2022-03-25",
+      "time": "23:59",
+      "theme": "technology",
+      "description": "Random Event",
+      "image": "https://images.yourstory.com/cs/2/6c7d986093a511ec98ee9fbd8fa414a8/-1665048004739.png"
+    },
+    {
+      "id": 5,
+      "title": "Dinner date",
+      "location": "bangalore",
+      "date": "2022-03-25",
+      "time": "23:59",
+      "theme": "technology",
+      "description": "Random Event",
+      "image": "https://images.yourstory.com/cs/2/6c7d986093a511ec98ee9fbd8fa414a8/-1665048004739.png"
+    }
+  ]
+}
